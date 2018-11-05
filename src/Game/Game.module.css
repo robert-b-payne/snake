@@ -1,0 +1,11 @@
+.GameContainer {
+  line-height: 80%;
+  margin-top: 25px;
+  border: 1px solid #eee;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.GameContainer:focus {
+  outline: none;
+}
