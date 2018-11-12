@@ -1,17 +1,17 @@
 .Square {
-  width: 13px;
-  height: 13px;
+  width: 17px;
+  height: 17px;
   display: inline-block;
   box-sizing: border-box;
   /* margin: 1px; */
 }
 
 .grey {
-  background-color: grey;
+  background-color: #444;
 }
 
 .red {
-  background-color: red;
+  background-color: #f7462e;
   border: 1px solid black;
 }
 
@@ -26,7 +26,7 @@
 
 .green {
   background-color: green;
-  border: 1px solid black;
+  border: 1px solid white;
 }
 
 br {
